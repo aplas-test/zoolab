@@ -19,7 +19,28 @@
       "sme_name": "Pepito McGonigal",
       "months_to_renew_support": "20",
       "sme_email": "Pepito.McGonigal@memento.net.au",
-      "investment_number": "96"
+      "investment_number": "96",
+      "integrations": [
+        {
+          "id": "int-339",
+          "name": "INT-339",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+          "sourceApplicationId": "zoolab",
+          "targetApplicationId": "veribet",
+          "logical_server": "BATCH",
+          "status_color": "#00FF00",
+          "pattern": "Async Response",
+          "golive_date": "19/2/06",
+          "sme_name": "Ramsey Tindle",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "rtindlem@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "8/4/16"
+        }
+      ]
     }
   ]
 }
